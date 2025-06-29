@@ -1,5 +1,5 @@
 🛡️ Ownership and Copyright Statement
-Product Title: Low-Gravity Running Shoe Concept
+Product Title:EL's Wings the Advanced Gravity-Reduction Shoe Simulated Gravity Relief
 Designer/Creator: Eric C. Lindau
 Date: June 29, 2025
 
