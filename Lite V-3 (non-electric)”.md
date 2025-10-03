@@ -1,4 +1,5 @@
 “Wiz-Dimensional's lite V-3” 
+Here the term "lite" was used to define a less complex, more affordable shoe.
 
 Goal: a non-electrical, lightweight (≤680 g / shoe) performance shoe that uses a carbon spring plate for push-off
 and a transparent, highly puncture-resistant silicone gel pod (visible perimeter) that contains more 
@@ -239,4 +240,4 @@ Adaptive Outsole Grip: Carbon honeycomb with electroactive regions that change s
 
 🏆 Final Verdict
 
-The “Wiz-Dimensional's lite V-3” is leaner, smarter, and more efficient — an elite-grade shoe that balances real engineering and perceptual effects. Preserved the science-fiction feel while grounding it in feasible materials and mechanics.
+The “Wiz-Dimensional's lite V-3” is leaner, and more efficient — an elite-grade shoe that balances real engineering and perceptual effects. Preserved the science-fiction feel while grounding it in feasible materials and mechanics.
