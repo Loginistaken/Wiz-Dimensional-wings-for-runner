@@ -1,4 +1,5 @@
-🎯 New Goal: Total Shoe Weight ≤ 1.5 lbs (680g)
+🎯 “Wiz-Dimensional's lite V-2”
+    New Goal: Total Shoe Weight ≤ 1.5 lbs (680g)
 
     That’s ~25% lighter than the original prototype (which weighed ~740–770g per shoe)
 
@@ -12,7 +13,7 @@ We’ll achieve this by:
 
     Preserving 30–45% gravity-reduction effect as much as possible
 
-👟 Redesigned Gravity Shoe: “GravityLite X2”
+👟 Redesigned Gravity Shoe: “Wiz-Dimensional's lite V-2”
 🧩 Component	🪶 Weight	💰 Cost	⚙️ Gravity Repel Role
 Upper: Carbon-Kevlar w/ SmartMesh overlay	100g	$25	Ultra-light, strong, breathability & flex
 Midsole: Nano-porous Graphene-Aerogel	70g	$55	Cushioning + 6% impact gravity reduction
