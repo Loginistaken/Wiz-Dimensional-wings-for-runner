@@ -1,6 +1,9 @@
 “Wiz-Dimensional's lite V-3” 
 
-The term "lite" was used to define a less complex, more affordable shoe.
+The term "lite" was used to define a less complex, more affordable shoe. 
+Wieghs ~1.28 lbs Estimated prototype per pair: $100–350
+
+Old Model: ~770g, 40% relief. New Model: ~590g, 35% relief.
 
 Goal: a non-electrical, lightweight (≤680 g / shoe) performance shoe that uses a carbon spring plate for push-off
 and a transparent, highly puncture-resistant silicone gel pod (visible perimeter) that contains more 
@@ -229,7 +232,7 @@ So the new version is actually more efficient in relief per gram carried.
 
 🚀 Next-Level Potential (Future Iterations)
 
-Next Level the 4 or 5 versions:
+Next Level the version ideas:
 
 Modular Gas Pods: Swappable for different activity types (running vs. hiking vs. rehab).
 
