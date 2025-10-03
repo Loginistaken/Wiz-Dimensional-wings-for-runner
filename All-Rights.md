@@ -1,5 +1,5 @@
 🛡️ Ownership and Copyright Statement
-Product Title:EL's Wings the Advanced Gravity-Reduction Shoe Simulated Gravity Relief
+Product Title:EL's Wings the Advanced Gravity-Reduction Shoe Simulated Gravity Relief, “Wiz-Dimensional's lite V-2”
 Designer/Creator: Eric C. Lindau
 Date: June 29, 2025
 
