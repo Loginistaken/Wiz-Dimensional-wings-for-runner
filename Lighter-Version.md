@@ -1,4 +1,4 @@
-🎯 “Wiz-Dimensional's lite V-2”
+🎯 “Wiz-Dimensional's lighter V-2”
     New Goal: Total Shoe Weight ≤ 1.5 lbs (680g)
 
     That’s ~25% lighter than the original prototype (which weighed ~740–770g per shoe)
