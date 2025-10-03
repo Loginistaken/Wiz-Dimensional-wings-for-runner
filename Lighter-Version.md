@@ -13,7 +13,7 @@ We’ll achieve this by:
 
     Preserving 30–45% gravity-reduction effect as much as possible
 
-👟 Redesigned Gravity Shoe: “Wiz-Dimensional's lite V-2”
+👟 Redesigned Gravity Shoe: “Wiz-Dimensional's lighter V-2”
 🧩 Component	🪶 Weight	💰 Cost	⚙️ Gravity Repel Role
 Upper: Carbon-Kevlar w/ SmartMesh overlay	100g	$25	Ultra-light, strong, breathability & flex
 Midsole: Nano-porous Graphene-Aerogel	70g	$55	Cushioning + 6% impact gravity reduction
@@ -68,7 +68,7 @@ Doped Silicon Mesh	Real-time feedback + perceptual load control
 
     ~30–40% less power demand
 
-🆕 Summary: GravityLite X2 Shoe
+🆕 Summary: Wiz Dimensional's v2" the lighter Shoe.
 Feature	Spec
 Weight	~1.3 lbs / 590g
 Estimated Gravity Relief	~35%
