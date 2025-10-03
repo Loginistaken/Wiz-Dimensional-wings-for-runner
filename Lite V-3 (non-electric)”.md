@@ -1,4 +1,9 @@
-Goal: a non-electrical, lightweight (≤680 g / shoe) performance shoe that uses a carbon spring plate for push-off and a transparent, highly puncture-resistant silicone gel pod (visible perimeter) that contains more silicone than air for durability, comfort and long life. The spring and the gel pod are mechanically coupled so energy is stored/returned by the spring and damped/comforted by the gel.
+“Wiz-Dimensional's lite V-3” 
+
+Goal: a non-electrical, lightweight (≤680 g / shoe) performance shoe that uses a carbon spring plate for push-off
+and a transparent, highly puncture-resistant silicone gel pod (visible perimeter) that contains more 
+silicone than air for durability, comfort and long life. The spring and the gel pod are mechanically 
+coupled so energy is stored/returned by the spring and damped/comforted by the gel.
 
 2) Layered design (outer → inner) — cross section
 
@@ -178,7 +183,9 @@ CAD cross-section (STEP/IGES) of the midsole + pod + spring ready for CFRP layup
 Detailed BOM (CSV) with part specs and supplier suggestions.
 
 Prototype test protocol (lab sheet with pass/fail metrics).
-(If you want any of these, tell me which — I’ll produce the first one as a CAD-ready spec or the BOM next.)   Strengths of the GravityLite X2
+
+(If you want any of these, tell me which — I’ll produce the first one as a CAD-ready spec or the BOM next.)   
+Strengths of the GravityLite X2
 
 Weight Victory:
 
