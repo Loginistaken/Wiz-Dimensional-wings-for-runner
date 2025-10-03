@@ -1,7 +1,7 @@
 “Wiz-Dimensional's lite V-3” 
 
 The term "lite" was used to define a less complex, more affordable shoe. 
-Wieghs ~1.28 lbs Estimated prototype per pair: $100–350 New Model: ~590g, 35% relief.
+Weighs ~1.28 lbs Estimated prototype per pair: $100–350 New Model: ~590g, 35% relief.
 
 Goal: a non-electrical, lightweight (≤680 g / shoe) performance shoe that uses a carbon spring plate for push-off
 and a transparent, highly puncture-resistant silicone gel pod (visible perimeter) that contains more 
