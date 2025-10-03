@@ -227,7 +227,7 @@ So the new version is actually more efficient in relief per gram carried.
 
 🚀 Next-Level Potential (Future Iterations)
 
-Here’s the X3 or X4 versions:
+Next Level the 4 or 5 versions:
 
 Modular Gas Pods: Swappable for different activity types (running vs. hiking vs. rehab).
 
@@ -239,4 +239,4 @@ Adaptive Outsole Grip: Carbon honeycomb with electroactive regions that change s
 
 🏆 Final Verdict
 
-The GravityLite X2 is leaner, smarter, and more efficient — an elite-grade shoe that balances real engineering and perceptual effects. Preserved the science-fiction feel while grounding it in feasible materials and mechanics.
+The “Wiz-Dimensional's lite V-3” is leaner, smarter, and more efficient — an elite-grade shoe that balances real engineering and perceptual effects. Preserved the science-fiction feel while grounding it in feasible materials and mechanics.
