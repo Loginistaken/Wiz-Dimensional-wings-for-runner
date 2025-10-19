@@ -1,4 +1,6 @@
 🛡️ Ownership and Copyright Statement
+The embem is an example idea Personal/Non-Commercial Use (Golden Wing)
+
 Product Title: EL's Wings the Advanced Gravity-Reduction Shoe Simulated Gravity Relief, Wiz-Dimensional lighter Version 2
 “Wiz-Dimensional's lite V-3”.
 
