@@ -243,3 +243,4 @@ Adaptive Outsole Grip: Carbon honeycomb with electroactive regions that change s
 🏆 Final Verdict
 
 The “Wiz-Dimensional's lite V-3” is leaner, and more efficient — an elite-grade shoe that balances real engineering and perceptual effects. Preserved the science-fiction feel while grounding it in feasible materials and mechanics.
+Intellectual Property Notice: The Golden Wings eblem is not for customer use as it's the desginers personal custom idea. Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
