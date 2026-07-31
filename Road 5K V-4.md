@@ -329,3 +329,5 @@ outsole into a single conceptual racing platform. The design aims to reduce rota
 improve propulsion efficiency, and provide responsive cushioning while maintaining stability through structural
 integration of the spring plate, foam, and outsole. As with the earlier concept, these specifications represent 
 a design proposal and engineering hypothesis rather than the measured performance of a commercially tested shoe.
+
+The emblem is not for customer use as it's the desginers personal custom idea. Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
